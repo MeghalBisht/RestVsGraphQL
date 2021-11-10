@@ -1,0 +1,15 @@
+[
+  {
+    "id": "101",
+    "name": "NSUT",
+    "location": "Delhi",
+    "rating": "5.0"
+  },
+
+  {
+    "id": "102",
+    "name": "IPU",
+    "location": "Delhi",
+    "rating": "4.5"
+  }
+]

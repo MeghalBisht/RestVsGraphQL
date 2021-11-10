@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@test.invalid",
+    "password": "pass123",
+    "collegeId": "101"
+  },
+  {
+    "id": "2",
+    "email": "jane.doe@test.invalid",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "password": "pass456",
+    "collegeId": "101"
+  },
+  {
+    "id": "3",
+    "email": "meghal.bisht@test.invalid",
+    "firstName": "Meghal",
+    "lastName": "Bisht",
+    "password": "pass789",
+    "collegeId": "102"
+  },
+  {
+    "id": "H1tI6cYPY",
+    "collegeId": "105",
+    "firstName": "ABC",
+    "lastName": "XYZ"
+  },
+  {
+    "id": "rJS969YDF",
+    "collegeId": "101",
+    "firstName": "Random",
+    "lastName": "Student"
+  }
+]
